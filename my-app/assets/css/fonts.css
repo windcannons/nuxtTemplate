@@ -1,0 +1,55 @@
+/*设置字体*/
+/*Futura为英文字体 其余为中文字体  此字体为双立人字体，禁止商用 ！！！*/
+@font-face {
+  font-family: 'Futura-Bold';
+  src: url('~/assets/fonts/Futura-Bold-5.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Futura-Book';
+  src: url('~/assets/fonts/Futura-Book-2.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Futura-Heavy';
+  src: url('~/assets/fonts/Futura-Heavy-4.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Futura-Light';
+  src: url('~/assets/fonts/Futura-Light-3.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Futura-Medium';
+  src: url('~/assets/fonts/Futura-Medium-6.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Bold';
+  src: url('~/assets/fonts/SourceHanSansCN-Bold.otf') format('truetype');
+}
+@font-face {
+  font-family: 'ExtraLight';
+  src: url('~/assets/fonts/SourceHanSansCN-ExtraLight.otf') format('truetype');
+}
+@font-face {
+  font-family: 'Heavy';
+  src: url('~/assets/fonts/SourceHanSansCN-Heavy.otf') format('truetype');
+}
+@font-face {
+  font-family: 'Light';
+  src: url('~/assets/fonts/SourceHanSansCN-Light.otf') format('truetype');
+}
+@font-face {
+  font-family: 'Medium';
+  src: url('~/assets/fonts/SourceHanSansCN-Medium.otf') format('truetype');
+}
+@font-face {
+  font-family: 'Normal';
+  src: url('~/assets/fonts/SourceHanSansCN-Normal.otf') format('truetype');
+}
+@font-face {
+  font-family: 'Regular';
+  src: url('~/assets/fonts/SourceHanSansCN-Regular.otf') format('truetype');
+}
